@@ -2,9 +2,8 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$" />
-    <content url="file://$USER_HOME$/OneDrive - RMIT University/5 2022 Semester 2 Batchelor 1/Project Management/JavaFiles/Software-Proj-Management-Team-Assignment">
-      <sourceFolder url="file://$USER_HOME$/OneDrive - RMIT University/5 2022 Semester 2 Batchelor 1/Project Management/JavaFiles/Software-Proj-Management-Team-Assignment" isTestSource="false" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
