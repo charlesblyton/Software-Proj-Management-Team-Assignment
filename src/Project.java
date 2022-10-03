@@ -47,7 +47,7 @@ public class Project {
    
   } 
   public void uploadCSV() {
-      File path = new File("./Data/Team allocation preferences[1-1].csv");
+      File path = new File("Data/Team allocation preferences(1-1).csv");
       ArrayList<String> listings = new ArrayList<>();
       String[] parameters;
 
