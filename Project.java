@@ -1,3 +1,4 @@
+
 import java.io.*;
 import java.util.*;
 import java.util.Scanner;
@@ -6,7 +7,7 @@ import java.util.ArrayList;
 
 public class Project {
 
-    private ArrayList<Value> allValuesList = new ArrayList<>();
+    private ArrayList<Student> allStudentList = new ArrayList<>();
 
     public void run() {
     boolean flag = true;
@@ -68,7 +69,7 @@ public class Project {
       try {
           for (String p : listings) {
               parameters = p.split(",");
-              allValuesList.add (new Value(
+              allStudentList.add (new Student(
                       parameters[0],
                       parameters[1],
                       parameters[2],
@@ -83,7 +84,6 @@ public class Project {
                       parameters[11],
                       parameters[12],
                       parameters[13]
-                    
               ));
 
           }
