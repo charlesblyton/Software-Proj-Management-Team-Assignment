@@ -22,7 +22,7 @@ public class Assignment1 {
 
 
     //EDDIE THE METHOD populateList() IS THE METHOD I CREATED FOR READING CSV FILES
-    // IT WOULD PROBABLY BE HELPFUL TO CREATE A FEW MORE ENTRIES IN THE '/Data/Team allocation preferences[1-1].csv' DOCUMENT FOR TESTING
+    // IT WOULD PROBABLY BE HELPFUL TO CREATE A FEW MORE ENTRIES IN THE '/ /Team allocation preferences[1-1].csv' DOCUMENT FOR TESTING
 
 
 
