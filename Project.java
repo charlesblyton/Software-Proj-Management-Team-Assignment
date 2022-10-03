@@ -1,5 +1,8 @@
 import java.io.*;
 import java.util.*;
+import java.util.Scanner;
+import java.util.ArrayList;
+
 
 public class Project {
 
@@ -43,17 +46,17 @@ public class Project {
    
   } 
   public void uploadCSV() {
-      File path = new File("./data/Team allocation preferences[1-1].csv");
+      File path = new File("./Data/Team allocation preferences[1-1].csv");
       ArrayList<String> listings = new ArrayList<>();
       String[] parameters;
 
       try {
-        Scanner scan = new Scanner(file);
+        Scanner scan = new Scanner(path);
         scan.nextLine();
 
         while (scan.hasNextLine()) {
           String info = scan.nextLine();
-          lisings.add(info);
+          listings.add(info);
         }
         scan.close();
       }
@@ -65,7 +68,7 @@ public class Project {
       try {
           for (String p : listings) {
               parameters = p.split(",");
-              allValuesList.add (new Value (
+              allValuesList.add (new Value(
                       parameters[0],
                       parameters[1],
                       parameters[2],
@@ -79,8 +82,8 @@ public class Project {
                       parameters[10],
                       parameters[11],
                       parameters[12],
-                      parameters[13],
-                      parameters[14],
+                      parameters[13]
+                    
               ));
 
           }
