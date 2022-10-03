@@ -23,9 +23,12 @@ public class Project {
       System.out.print("Choose an option: ");
       int option = input.nextInt();
       input.nextLine();
-      switch (option) {
+        System.out.println("Is the All Student List Empty before uploadCSV()? " + allStudentList.isEmpty());
+
+        switch (option) {
         case 1:
           uploadCSV();
+            System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty());
           break;
         case 2:
           uploadXLSX();
