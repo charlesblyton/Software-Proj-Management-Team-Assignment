@@ -1,4 +1,6 @@
-/** Main method
+package src;
+
+/** src.Main method
  * 
  */
 public class Main {
