@@ -44,15 +44,15 @@ public class Project {
 
   }
 
-  public void uploadXLSX {
+  public void uploadXLSX (){
 
   }
 
-  public void changeMaximum {
+  public void changeMaximum (){
 
   }
 
-  public void listGroups {
+  public void listGroups() {
 
   }
 
