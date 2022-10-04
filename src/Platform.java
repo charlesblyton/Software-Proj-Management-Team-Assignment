@@ -1,3 +1,5 @@
+package src;
+
 public class Platform {
     
     private int platformId;
@@ -34,6 +36,6 @@ public class Platform {
     }
 
     public String toString () {
-        return "Platform / Application use: " + applicationList + " Workshop: " + workshopNo;
+        return "src.Platform / Application use: " + applicationList + " Workshop: " + workshopNo;
     }
 }

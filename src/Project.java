@@ -1,12 +1,13 @@
+package src;
+
 import java.io.*;
-import java.util.*;
 import java.util.Scanner;
 import java.util.ArrayList;
 
 
 public class Project {
 
-    private ArrayList<Value> allValuesList = new ArrayList<>();
+    private ArrayList<Student> allStudentList = new ArrayList<>();
 
     public void run() {
     boolean flag = true;
@@ -22,9 +23,12 @@ public class Project {
       System.out.print("Choose an option: ");
       int option = input.nextInt();
       input.nextLine();
-      switch (option) {
+        System.out.println("Is the All Student List Empty before uploadCSV()? " + allStudentList.isEmpty());
+
+        switch (option) {
         case 1:
           uploadCSV();
+            System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty());
           break;
         case 2:
           uploadXLSX();
@@ -46,7 +50,7 @@ public class Project {
    
   } 
   public void uploadCSV() {
-      File path = new File("./Data/Team allocation preferences[1-1].csv");
+      File path = new File("Data/Team allocation preferences(1-1).csv");
       ArrayList<String> listings = new ArrayList<>();
       String[] parameters;
 
@@ -68,7 +72,7 @@ public class Project {
       try {
           for (String p : listings) {
               parameters = p.split(",");
-              allValuesList.add (new Value(
+              allStudentList.add (new Student(
                       parameters[0],
                       parameters[1],
                       parameters[2],
@@ -83,7 +87,6 @@ public class Project {
                       parameters[11],
                       parameters[12],
                       parameters[13]
-                    
               ));
 
           }
