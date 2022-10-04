@@ -27,7 +27,7 @@ public class Project {
 
         switch (option) {
         case 1:
-          uploadCSV();
+          uploadCSV("Data/Team allocation preferences(1-1).csv"); //CSV file to be imported
             System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty());
           break;
         case 2:
@@ -49,8 +49,8 @@ public class Project {
     }
    
   } 
-  public void uploadCSV() {
-      File path = new File("Data/Team allocation preferences(1-1).csv");
+  public void uploadCSV(String filePath) {
+      File path = new File(filePath);
       ArrayList<String> listings = new ArrayList<>();
       String[] parameters;
 
@@ -60,7 +60,7 @@ public class Project {
 
         while (scan.hasNextLine()) {
           String info = scan.nextLine();
-          listings.add(info);
+          listings.add(info); // at the end of loop will have String array of all the lines in the CSV file
         }
         scan.close();
       }
