@@ -5,7 +5,7 @@ public class ProgrammingLanguage {
     private int programmingLanguageId;
     private String prgLanguage;
 
-    public ProgrammingLanguage (String javaLanguage, String pythonLanguage) {
+    public ProgrammingLanguage (String prgLanguage) {
         this.prgLanguage = prgLanguage;
     }
 

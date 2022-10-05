@@ -11,7 +11,7 @@ public class Student {
     private String workshopClass;
     private String preferableTeammates;
     private String projectOption;
-    private String ITlanguage;
+    private String itlanguage;
     private String timezone;
     private String preferableDays;
     private String preferableTime;
@@ -28,7 +28,7 @@ public class Student {
         this.workshopClass       = workshopClass;
         this.preferableTeammates = preferableTeammates;
         this.projectOption       = projectOption;
-        this.ITlanguage          = ITlanguage;
+        this.itlanguage            = ITlanguage;
         this.timezone            = timezone;
         this.preferableDays      = preferableDays;
         this.preferableTime      = preferableTime;
@@ -116,12 +116,12 @@ public class Student {
         this.projectOption = poption;
     }
 
-    public String getITlanguage() {
-        return ITlanguage;
+    public String getItlanguage() {
+        return itlanguage;
     }
 
-    public void setITlanguage (String language) {
-        this.ITlanguage = language;
+    public void setItlanguage(String language) {
+        this.itlanguage = language;
     }
 
     public String getTimezone() {
@@ -131,7 +131,6 @@ public class Student {
     public void setTimezone (String timezone) {
         this.timezone = timezone;
     }
-
 
     public String getPreferableDays() {
         return preferableDays;
@@ -164,7 +163,7 @@ public class Student {
         sb.append(", workshopClass='").append(workshopClass).append('\'');
         sb.append(", preferableTeammates='").append(preferableTeammates).append('\'');
         sb.append(", projectOption='").append(projectOption).append('\'');
-        sb.append("ITLanguage='").append(ITlanguage).append('\'');
+        sb.append("ITLanguage='").append(itlanguage).append('\'');
         sb.append(", timezone='").append(timezone).append('\'');
         sb.append(", preferableDays='").append(preferableDays).append('\'');
         sb.append(", preferableTime='").append(preferableTime).append('\'');
