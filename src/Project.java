@@ -26,26 +26,16 @@ public class Project {
             System.out.println("Is the All Student List Empty before uploadCSV()? " + allStudentList.isEmpty()); //This is for checking if the uploadCSV() method is working
 
             switch (option) {
-                case 1:
+                case 1 -> {
 //                  uploadCSV("Data/Team allocation preferences(1-1).csv"); //CSV file to be imported
                     uploadCSV("Data/testData.csv"); //Testing my random data generator
-
                     System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty()); //This is for checking if the uploadCSV() method is working
-                    break;
-                case 2:
-                    uploadXLSX();
-                    break;
-                case 3:
-                    changeMaximum();
-                    break;
-                case 4:
-                    listGroups();
-                    break;
-                case 5:
-                    flag = false;
-                    break;
-                default:
-                    System.out.println("Invalid option.");
+                }
+                case 2 -> uploadXLSX();
+                case 3 -> changeMaximum();
+                case 4 -> listGroups();
+                case 5 -> flag = false;
+                default -> System.out.println("Invalid option.");
             }
         }
     }
