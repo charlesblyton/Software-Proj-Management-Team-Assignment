@@ -9,7 +9,7 @@ import java.util.Iterator;
 public class Project {
 
     private ArrayList<Student> allStudentList = new ArrayList<>();
-    private ArrayList<testGroup> completeTestGroup;
+    private ArrayList<testGroup> completeTestGroup = new ArrayList<>();
 
     public void run() {
         boolean flag = true;
