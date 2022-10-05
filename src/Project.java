@@ -23,14 +23,14 @@ public class Project {
             System.out.print("Choose an option: ");
             int option = input.nextInt();
             input.nextLine();
-            System.out.println("Is the All Student List Empty before uploadCSV()? " + allStudentList.isEmpty());
+            System.out.println("Is the All Student List Empty before uploadCSV()? " + allStudentList.isEmpty()); //This is for checking if the uploadCSV() method is working
 
             switch (option) {
                 case 1:
 //          uploadCSV("Data/Team allocation preferences(1-1).csv"); //CSV file to be imported
                     uploadCSV("Data/testData.csv"); //Testing my random data generator
 
-                    System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty());
+                    System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty()); //This is for checking if the uploadCSV() method is working
                     break;
                 case 2:
                     uploadXLSX();
