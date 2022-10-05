@@ -3,11 +3,13 @@ package src;
 import java.io.*;
 import java.util.Scanner;
 import java.util.ArrayList;
+import java.util.Iterator;
 
 
 public class Project {
 
     private ArrayList<Student> allStudentList = new ArrayList<>();
+    private ArrayList<testGroup> completeTestGroup;
 
     public void run() {
         boolean flag = true;
@@ -98,7 +100,18 @@ public class Project {
     }
 
     public void listGroups() {
+        Iterator myIterator = this.completeTestGroup.iterator();
+        while(myIterator.hasNext()) {
+            testGroup t = (testGroup)myIterator.next();
+            System.out.println(t);
+        }
+    }
 
+    //Fills array with test data for viewing output
+    public void fillTestGroup() {
+        testGroup[] testG= {new testGroup("John", "Fred", "Lisa", "Jennifer", "Tom", "Jessica", "Vinh")};
+        for(int i = 0; i < testG.length; i++)
+            completeTestGroup.add(testG[i]);
     }
 
 
