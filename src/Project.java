@@ -33,8 +33,8 @@ public class Project {
                     uploadCSV("Data/testData.csv"); //Testing my random data generator
                     System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty()); //This is for checking if the uploadCSV() method is working
                 }
-                case 2 -> uploadXLSX();
-                case 3 -> changeMaximum();
+                case 2 -> System.out.println("You selected Case 2, this has not been implemented yet");
+                case 3 -> System.out.println("You selected Case 3, this has not been implemented yet");
                 case 4 -> listGroups();
                 case 5 -> flag = false;
                 default -> System.out.println("Invalid option.");
@@ -43,76 +43,89 @@ public class Project {
     }
 
     public void uploadCSV(String filePath) {
-        File path = new File(filePath);
-        ArrayList<String> listings = new ArrayList<>();
-        String[] parameters;
+        if (filePath.contains(".csv")) {
+            File path = new File(filePath);
+            ArrayList<String> listings = new ArrayList<>();
+            String[] parameters;
 
-        try {
-            Scanner scan = new Scanner(path);
-            scan.nextLine();
+            try {
+                Scanner scan = new Scanner(path);
+                scan.nextLine();
 
-            while (scan.hasNextLine()) {
-                String info = scan.nextLine();
-                listings.add(info); // at the end of loop will have String array of all the lines in the CSV file
+                while (scan.hasNextLine()) {
+                    String info = scan.nextLine();
+                    listings.add(info); // at the end of loop will have String array of all the lines in the CSV file
+                }
+                scan.close();
+
+                try {
+                    for (String p : listings) {
+                        parameters = p.split(",");
+                        allStudentList.add(new Student(
+                                parameters[0],
+                                parameters[1],
+                                parameters[2],
+                                parameters[3],
+                                parameters[4],
+                                parameters[5],
+                                parameters[6],
+                                parameters[7],
+                                parameters[8],
+                                parameters[9],
+                                parameters[10],
+                                parameters[11],
+                                parameters[12],
+                                parameters[13]
+                        ));
+                    }
+
+                    System.out.println();
+                    System.out.println("List has been uploaded");
+                    System.out.println();
+
+                } catch (NumberFormatException e) {
+                    System.out.println();
+                    System.out.println("There has been an error while uploading a list of student in CSV file");
+                    System.out.println("some/all listings will not have been loaded into the program.");
+                    System.out.println();
+                } catch (ArrayIndexOutOfBoundsException e) {
+                    System.out.println();
+                    System.out.println("The file is corrupted, please select a valid file");
+                    System.out.println();
+                }
+            } catch (FileNotFoundException e) {
+                System.out.println();
+                System.out.println("Error! CSV file not found, there was no listings loaded into the program");
+                System.out.println();
             }
-            scan.close();
-        } catch (FileNotFoundException e) {
+        } else {
             System.out.println();
-            System.out.println("Error! CSV file not found, there was no listings loaded into the program");
+            System.out.println("Please only upload the correct file type!");
             System.out.println();
         }
-        try {
-            for (String p : listings) {
-                parameters = p.split(",");
-                allStudentList.add(new Student(
-                        parameters[0],
-                        parameters[1],
-                        parameters[2],
-                        parameters[3],
-                        parameters[4],
-                        parameters[5],
-                        parameters[6],
-                        parameters[7],
-                        parameters[8],
-                        parameters[9],
-                        parameters[10],
-                        parameters[11],
-                        parameters[12],
-                        parameters[13]
-                ));
 
+    }
+
+
+//        public void uploadXLSX () {}
+
+
+//        public void changeMaximum () {}
+
+        public void listGroups () {
+            Iterator myIterator = this.completeTestGroup.iterator();
+            while (myIterator.hasNext()) {
+                testGroup t = (testGroup) myIterator.next();
+                System.out.println(t);
             }
-        } catch (NumberFormatException e) {
-            System.out.println();
-            System.out.println("There has been an error while uploading a list of student in CSV file");
-            System.out.println("some/all listings will not have been loaded into the program.");
-            System.out.println();
         }
 
-    }
-
-    public void uploadXLSX() {
-
-    }
-
-    public void changeMaximum() {
-
-    }
-
-    public void listGroups() {
-        Iterator myIterator = this.completeTestGroup.iterator();
-        while(myIterator.hasNext()) {
-            testGroup t = (testGroup)myIterator.next();
-            System.out.println(t);
+        //Fills array with test data for viewing output
+        public void fillTestGroup () {
+            testGroup[] testG = {new testGroup("John", "Fred", "Lisa", "Jennifer", "Tom", "Jessica", "Vinh")};
+            for (int i = 0; i < testG.length; i++)
+                completeTestGroup.add(testG[i]);
         }
+
+
     }
-
-    //Fills array with test data for viewing output
-    public void fillTestGroup() {
-        testGroup[] testG= {new testGroup("John", "Fred", "Lisa", "Jennifer", "Tom", "Jessica", "Vinh")};
-        for(int i = 0; i < testG.length; i++)
-            completeTestGroup.add(testG[i]);
-    }
-
-
-}
