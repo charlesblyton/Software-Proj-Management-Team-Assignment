@@ -9,7 +9,7 @@ import java.util.Iterator;
 public class Project {
 
     private ArrayList<Student> allStudentList = new ArrayList<>();
-    private ArrayList<testGroup> completeTestGroup = new ArrayList<>();
+    private ArrayList<Group> allGroupList = new ArrayList<>();
 
     public void run() {
         boolean flag = true;
@@ -25,13 +25,11 @@ public class Project {
             System.out.print("Choose an option: ");
             int option = input.nextInt();
             input.nextLine();
-            System.out.println("Is the All Student List Empty before uploadCSV()? " + allStudentList.isEmpty()); //This is for checking if the uploadCSV() method is working
 
             switch (option) {
                 case 1 -> {
 //                  uploadCSV("Data/Team allocation preferences(1-1).csv"); //CSV file to be imported
                     uploadCSV("Data/testData.csv"); //Testing my random data generator
-                    System.out.println("Is the All Student List Empty after uploadCSV()? " + allStudentList.isEmpty()); //This is for checking if the uploadCSV() method is working
                 }
                 case 2 -> System.out.println("You selected Case 2, this has not been implemented yet");
                 case 3 -> System.out.println("You selected Case 3, this has not been implemented yet");
@@ -113,19 +111,19 @@ public class Project {
 //        public void changeMaximum () {}
 
         public void listGroups () {
-            Iterator myIterator = this.completeTestGroup.iterator();
+            Iterator myIterator = this.allGroupList.iterator();
             while (myIterator.hasNext()) {
-                testGroup t = (testGroup) myIterator.next();
+                Group t = (Group) myIterator.next();
                 System.out.println(t);
             }
         }
 
         //Fills array with test data for viewing output
-        public void fillTestGroup () {
-            testGroup[] testG = {new testGroup("John", "Fred", "Lisa", "Jennifer", "Tom", "Jessica", "Vinh")};
-            for (int i = 0; i < testG.length; i++)
-                completeTestGroup.add(testG[i]);
-        }
+//        public void fillTestGroup () {
+////            Group[] testG = {new Group("John", "Fred", "Lisa", "Jennifer", "Tom", "Jessica", "Vinh")};
+//            for (int i = 0; i < testG.length; i++)
+//                allGroupList.add(testG[i]);
+//        }
 
 
     }
