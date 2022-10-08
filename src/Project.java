@@ -69,7 +69,7 @@ public class Project {
                 };
                 csvw.writeNext(line);
             }
-            csvw.close();
+            csvw.close(); //Equivalent of saving the file
             System.out.println();
             System.out.println("The file has been saved in Output/" + fileName);
             System.out.println();
