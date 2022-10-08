@@ -10,8 +10,8 @@ public class Group {
 
     private final int id;
 
-    private int maxGroupSize;
-    private ArrayList<Student> studentList;
+    private int maxGroupSize = 0;
+    private ArrayList<Student> studentList = new ArrayList<>();
     private Language language;
     private Platform platform;
     private TimeZone timeZone;
@@ -35,7 +35,8 @@ public class Group {
     }
 
     public void addStudent(Student newStudent){
-        studentList.add(newStudent);
+                    studentList.add(newStudent);
+
     }
 
     public Language getProgrammingLanguage() {
@@ -60,5 +61,26 @@ public class Group {
 
     public void setTimeZone(TimeZone timeZone) {
         this.timeZone = timeZone;
+    }
+
+    @Override
+    public String toString() {
+        return "Farts";
+    }
+    public void printStudentList(){
+        System.out.println();
+        System.out.println("Group " + id + " students:"); //Prints the group name
+        System.out.println("-------------------------------------------------------");
+
+        for (Student s :studentList){
+            System.out.println(s.toStringSimplified()); //Prints simplified details of the students in the group
+        }
+        System.out.println("-------------------------------------------------------");
+    }
+    public int getGroupSize(){
+        return studentList.size();
+    }
+    public Student getStudentAtIndex(int index){
+        return studentList.get(index);
     }
 }

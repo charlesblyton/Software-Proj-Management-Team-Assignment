@@ -170,6 +170,19 @@ public class Student {
         sb.append('}');
         return sb.toString();
     }
+    public String toStringSimplified() {
+        final StringBuilder sb = new StringBuilder("Student " + id + "{");
+        sb.append(", name='").append(name).append('\'');
+        sb.append(", studentID='").append(studentID).append('\'');
+        sb.append(", email='").append(email).append('\'');
+        sb.append(", workshopClass='").append(workshopClass).append('\'');
+        sb.append(", preferableTeammates='").append(preferableTeammates).append('\'');
+        sb.append(", projectOption='").append(projectOption).append('\'');
+        sb.append("ITLanguage='").append(itlanguage).append('\'');
+        sb.append(", timezone='").append(timezone).append('\'');
+        sb.append('}');
+        return sb.toString();
+    }
 }
 
 
