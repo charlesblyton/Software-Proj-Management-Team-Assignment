@@ -1,11 +1,11 @@
 package src;
 
-public class ProgrammingLanguage {
+public class Language {
 
     private int programmingLanguageId;
     private String prgLanguage;
 
-    public ProgrammingLanguage (String prgLanguage) {
+    public Language(String prgLanguage) {
         this.prgLanguage = prgLanguage;
     }
 

@@ -1,101 +1,101 @@
 ID,Start time,Completion time,Email,Name,Your name(FirstName LastName),Your student ID,Your workshop class,Preferred student IDs separated by commas (max. 6 student IDs):,Platform,languages,Timezone,Preferred week days,Preferred day / nighttimes for team - work
-1,-,-,s3114423@rmit.edu.au,Irene Mack,Irene Mack,s3114423,WRK4,"s3116508,s3116342,s3113226,",iOS,C++;Python;Java;,AWST,-,-
-2,-,-,s3116275@rmit.edu.au,Kacey Hendrix,Kacey Hendrix,s3116275,WRK3,"s3115059,",Web,C++;Java;Python;,AWST,-,-
-3,-,-,s3111037@rmit.edu.au,Mohamed Walls,Mohamed Walls,s3111037,WRK3,"s3109420,",Web,Java;Python;C++;,ACWST,-,-
-4,-,-,s3119045@rmit.edu.au,Mika Jarvis,Mika Jarvis,s3119045,WRK3,"s3111882,s3120809,",Android,C++;Java;Python;,AWST,-,-
-5,-,-,s3111991@rmit.edu.au,Holland Schwartz,Holland Schwartz,s3111991,WRK2,"s3117683,",Android,C++;Python;Java;,AWST,-,-
-6,-,-,s3120173@rmit.edu.au,Caroline Huffman,Caroline Huffman,s3120173,WRK6,"s3109050,s3110408,s3115428,",Web,Python;C++;Java;,AWST,-,-
-7,-,-,s3117144@rmit.edu.au,Micaela Howell,Micaela Howell,s3117144,WRK3,"s3118539,s3118015,s3112224,",Android,Python;C++;Java;,AEST,-,-
-8,-,-,s3114157@rmit.edu.au,Stella Fitzpatrick,Stella Fitzpatrick,s3114157,WRK5,"s3119863,s3116088,s3109525,",Web,C++;Java;Python;,ACWST,-,-
-9,-,-,s3117941@rmit.edu.au,Juston Marquez,Juston Marquez,s3117941,WRK4,"s3111822,s3117302,s3116058,",Android,C++;Java;Python;,Not Important to me,-,-
-10,-,-,s3120271@rmit.edu.au,Denae Hansen,Denae Hansen,s3120271,WRK2,"s3110546,",iOS,Python;Java;C++;,AWST,-,-
-11,-,-,s3116577@rmit.edu.au,Lianna Nelson,Lianna Nelson,s3116577,WRK3,"s3109597,s3117744,s3117729,",Web,Java;Python;C++;,AEST,-,-
-12,-,-,s3115116@rmit.edu.au,Howard Gamble,Howard Gamble,s3115116,WRK1,"s3119377,s3114921,s3112811,",Web,Java;C++;Python;,ACST,-,-
-13,-,-,s3116571@rmit.edu.au,Magen Meyer,Magen Meyer,s3116571,WRK5,"s3109416,s3109351,s3109716,",Android,Python;C++;Java;,AEST,-,-
-14,-,-,s3115107@rmit.edu.au,Danial Floyd,Danial Floyd,s3115107,WRK2,"s3118655,s3112584,s3109700,s3115355,",Android,Python;C++;Java;,AWST,-,-
-15,-,-,s3114793@rmit.edu.au,Dedrick Lowery,Dedrick Lowery,s3114793,WRK5,"s3109256,s3111835,s3117587,",Android,C++;Java;Python;,AWST,-,-
-16,-,-,s3111271@rmit.edu.au,Roscoe Phillips,Roscoe Phillips,s3111271,WRK1,"s3111525,s3109880,",Web,Java;C++;Python;,ACWST,-,-
-17,-,-,s3117998@rmit.edu.au,Carolyn Arroyo,Carolyn Arroyo,s3117998,WRK1,"s3118606,s3119741,s3112990,",Desktop,C++;Python;Java;,AEST,-,-
-18,-,-,s3113799@rmit.edu.au,Caitlyn Garcia,Caitlyn Garcia,s3113799,WRK4,"s3120008,s3116414,s3113811,",iOS,Java;Python;C++;,AWST,-,-
-19,-,-,s3115139@rmit.edu.au,Shena Garrett,Shena Garrett,s3115139,WRK4,"s3110676,s3111444,s3112703,s3114115,",iOS,C++;Java;Python;,ACST,-,-
-20,-,-,s3120036@rmit.edu.au,Keosha Lambert,Keosha Lambert,s3120036,WRK1,"s3119389,",Android,Python;C++;Java;,AWST,-,-
-21,-,-,s3117165@rmit.edu.au,Rochel Williams,Rochel Williams,s3117165,WRK2,"s3117032,s3115017,s3111142,",Android,C++;Java;Python;,AEST,-,-
-22,-,-,s3112304@rmit.edu.au,Talisa Small,Talisa Small,s3112304,WRK1,"s3112136,s3111715,s3112265,s3110833,",Desktop,Python;Java;C++;,AWST,-,-
-23,-,-,s3113817@rmit.edu.au,Trent Sweeney,Trent Sweeney,s3113817,WRK5,"s3109252,s3111074,s3110961,s3112662,",Web,Java;C++;Python;,AWST,-,-
-24,-,-,s3120754@rmit.edu.au,Abbie Gay,Abbie Gay,s3120754,WRK3,"s3111959,s3115060,",Web,Java;Python;C++;,AWST,-,-
-25,-,-,s3119197@rmit.edu.au,Sherika Stewart,Sherika Stewart,s3119197,WRK4,"s3113153,",iOS,C++;Java;Python;,ACST,-,-
-26,-,-,s3120224@rmit.edu.au,Carmella Navarro,Carmella Navarro,s3120224,WRK5,"s3116593,s3109611,s3115685,",iOS,C++;Python;Java;,AWST,-,-
-27,-,-,s3110237@rmit.edu.au,Evangeline Mathews,Evangeline Mathews,s3110237,WRK2,"s3114581,s3111844,s3112913,",iOS,Python;C++;Java;,AEST,-,-
-28,-,-,s3118036@rmit.edu.au,Lee Kim,Lee Kim,s3118036,WRK4,"s3117837,s3118507,",Android,Java;Python;C++;,AWST,-,-
-29,-,-,s3118097@rmit.edu.au,Tiffanie Hutchinson,Tiffanie Hutchinson,s3118097,WRK6,"s3113943,s3112446,s3114232,",Web,C++;Python;Java;,Not Important to me,-,-
-30,-,-,s3120362@rmit.edu.au,Rosalie Walter,Rosalie Walter,s3120362,WRK6,"s3109214,s3111210,s3120533,s3111168,s3112421,",Desktop,C++;Python;Java;,ACST,-,-
-31,-,-,s3113270@rmit.edu.au,Trace Cochran,Trace Cochran,s3113270,WRK3,"s3110042,s3110392,",Desktop,Java;Python;C++;,AWST,-,-
-32,-,-,s3116159@rmit.edu.au,Buck Terrell,Buck Terrell,s3116159,WRK3,"s3117872,s3110312,s3118548,s3116818,s3118720,",iOS,Java;C++;Python;,ACWST,-,-
-33,-,-,s3118530@rmit.edu.au,Christophe Byrd,Christophe Byrd,s3118530,WRK6,"s3112388,s3114772,",Desktop,C++;Java;Python;,ACWST,-,-
-34,-,-,s3117316@rmit.edu.au,Elena Ewing,Elena Ewing,s3117316,WRK4,"s3118585,s3120892,s3118126,s3111232,",Android,Java;C++;Python;,ACST,-,-
-35,-,-,s3111938@rmit.edu.au,Susanna Kirby,Susanna Kirby,s3111938,WRK6,"s3114008,s3110305,s3119342,",Web,Python;Java;C++;,ACST,-,-
-36,-,-,s3118360@rmit.edu.au,Tiesha Hunt,Tiesha Hunt,s3118360,WRK5,"s3120183,s3109811,s3113313,",Android,Java;Python;C++;,ACST,-,-
-37,-,-,s3110825@rmit.edu.au,Simeon Berry,Simeon Berry,s3110825,WRK5,"s3113833,s3111790,s3120261,",Android,Java;C++;Python;,ACWST,-,-
-38,-,-,s3111430@rmit.edu.au,Meridith Simpson,Meridith Simpson,s3111430,WRK6,"s3112490,s3115897,s3111401,",iOS,Java;C++;Python;,ACWST,-,-
-39,-,-,s3118365@rmit.edu.au,Kristopher Cummings,Kristopher Cummings,s3118365,WRK4,"s3116483,s3120922,",iOS,C++;Python;Java;,ACST,-,-
-40,-,-,s3112416@rmit.edu.au,Sade Benitez,Sade Benitez,s3112416,WRK2,"s3109216,",Web,Python;C++;Java;,ACST,-,-
-41,-,-,s3120382@rmit.edu.au,Ada Riggs,Ada Riggs,s3120382,WRK2,"s3109853,s3118564,s3120019,s3115010,",Android,Java;C++;Python;,Not Important to me,-,-
-42,-,-,s3120208@rmit.edu.au,Benita Page,Benita Page,s3120208,WRK5,"s3110455,s3118420,s3115558,",Android,Python;C++;Java;,AEST,-,-
-43,-,-,s3115593@rmit.edu.au,Karis Melton,Karis Melton,s3115593,WRK3,"s3116112,s3111520,",Web,Python;Java;C++;,ACWST,-,-
-44,-,-,s3119124@rmit.edu.au,Laronda Baird,Laronda Baird,s3119124,WRK4,"s3110774,s3116220,",Desktop,C++;Python;Java;,ACST,-,-
-45,-,-,s3112049@rmit.edu.au,Kirsten Patel,Kirsten Patel,s3112049,WRK2,"s3116228,s3114638,s3112039,s3109389,",Android,Java;Python;C++;,ACST,-,-
-46,-,-,s3110773@rmit.edu.au,Adan Yu,Adan Yu,s3110773,WRK2,"s3113563,s3115338,s3111080,",Desktop,Python;C++;Java;,ACST,-,-
-47,-,-,s3113496@rmit.edu.au,Ayesha Sexton,Ayesha Sexton,s3113496,WRK3,"s3111464,s3112858,s3117360,",iOS,Python;Java;C++;,AEST,-,-
-48,-,-,s3117937@rmit.edu.au,Lacee Gallagher,Lacee Gallagher,s3117937,WRK2,"s3119923,s3118963,",Web,C++;Java;Python;,Not Important to me,-,-
-49,-,-,s3117158@rmit.edu.au,Shiloh Nguyen,Shiloh Nguyen,s3117158,WRK6,"s3119226,s3117588,",Web,Java;C++;Python;,AEST,-,-
-50,-,-,s3113964@rmit.edu.au,Johnny Prince,Johnny Prince,s3113964,WRK6,"s3119745,s3111165,",iOS,Java;C++;Python;,Not Important to me,-,-
-51,-,-,s3119264@rmit.edu.au,Celia Cline,Celia Cline,s3119264,WRK5,"s3113241,s3116827,",iOS,C++;Java;Python;,AWST,-,-
-52,-,-,s3120141@rmit.edu.au,Cassondra Rice,Cassondra Rice,s3120141,WRK4,"s3112951,s3110392,s3118355,",Android,Python;Java;C++;,ACWST,-,-
-53,-,-,s3109760@rmit.edu.au,Asher Glass,Asher Glass,s3109760,WRK6,"s3110760,s3116502,",Android,C++;Python;Java;,ACWST,-,-
-54,-,-,s3113328@rmit.edu.au,Tate Joseph,Tate Joseph,s3113328,WRK2,"s3112504,s3116777,",Web,Python;C++;Java;,ACWST,-,-
-55,-,-,s3110481@rmit.edu.au,Rylan Richards,Rylan Richards,s3110481,WRK2,"s3111806,",iOS,Java;Python;C++;,ACST,-,-
-56,-,-,s3115432@rmit.edu.au,Alfredo Valentine,Alfredo Valentine,s3115432,WRK3,"s3110797,s3119610,",Web,Python;C++;Java;,ACWST,-,-
-57,-,-,s3116470@rmit.edu.au,Efrain Estes,Efrain Estes,s3116470,WRK5,"s3112109,s3116150,s3109127,",Desktop,C++;Python;Java;,ACST,-,-
-58,-,-,s3116494@rmit.edu.au,Lidia Watkins,Lidia Watkins,s3116494,WRK4,"s3113614,s3116145,",Web,C++;Java;Python;,ACWST,-,-
-59,-,-,s3113397@rmit.edu.au,Estella Landry,Estella Landry,s3113397,WRK1,"s3114302,",Web,Java;C++;Python;,AEST,-,-
-60,-,-,s3115198@rmit.edu.au,Carisa Bradley,Carisa Bradley,s3115198,WRK2,"s3114199,s3113016,",iOS,Python;C++;Java;,ACST,-,-
-61,-,-,s3116710@rmit.edu.au,Shaun Todd,Shaun Todd,s3116710,WRK1,"s3110691,s3118932,s3115153,s3109508,",Web,Java;Python;C++;,ACST,-,-
-62,-,-,s3117851@rmit.edu.au,Harrison Ali,Harrison Ali,s3117851,WRK4,"s3120623,s3116119,s3112328,",Android,Java;Python;C++;,AWST,-,-
-63,-,-,s3114525@rmit.edu.au,Krystin Blackwell,Krystin Blackwell,s3114525,WRK6,"s3115305,s3116369,s3118217,",Desktop,C++;Java;Python;,AEST,-,-
-64,-,-,s3118198@rmit.edu.au,Elysia French,Elysia French,s3118198,WRK3,"s3114801,s3115611,",iOS,Python;C++;Java;,AEST,-,-
-65,-,-,s3109897@rmit.edu.au,Jenica Mays,Jenica Mays,s3109897,WRK4,"s3118992,s3120506,s3112712,",Desktop,Java;C++;Python;,ACWST,-,-
-66,-,-,s3111216@rmit.edu.au,Ean Arnold,Ean Arnold,s3111216,WRK1,"s3115334,s3112034,s3119159,",Android,C++;Java;Python;,ACST,-,-
-67,-,-,s3120382@rmit.edu.au,Lorenzo Randolph,Lorenzo Randolph,s3120382,WRK3,"s3116793,s3110853,",Android,Java;Python;C++;,Not Important to me,-,-
-68,-,-,s3114129@rmit.edu.au,Peggy Parsons,Peggy Parsons,s3114129,WRK5,"s3112611,s3109595,s3110032,s3110721,",Desktop,C++;Java;Python;,Not Important to me,-,-
-69,-,-,s3110610@rmit.edu.au,Nataly Barron,Nataly Barron,s3110610,WRK6,"s3119489,",Android,C++;Python;Java;,Not Important to me,-,-
-70,-,-,s3117317@rmit.edu.au,Nehemiah Lutz,Nehemiah Lutz,s3117317,WRK3,"s3118637,s3116483,",Desktop,Python;C++;Java;,ACWST,-,-
-71,-,-,s3112862@rmit.edu.au,Lyndi Maxwell,Lyndi Maxwell,s3112862,WRK2,"s3114145,s3114674,s3117563,s3112570,",Android,Java;Python;C++;,ACWST,-,-
-72,-,-,s3116486@rmit.edu.au,Jillian Rubio,Jillian Rubio,s3116486,WRK4,"s3116439,s3112001,s3116836,s3118157,",iOS,C++;Java;Python;,AEST,-,-
-73,-,-,s3115339@rmit.edu.au,Ben Cook,Ben Cook,s3115339,WRK2,"s3113823,s3119384,s3113088,s3112842,",iOS,C++;Python;Java;,Not Important to me,-,-
-74,-,-,s3114267@rmit.edu.au,Mai Roth,Mai Roth,s3114267,WRK2,"s3120831,s3115626,s3116415,",iOS,Python;Java;C++;,AEST,-,-
-75,-,-,s3115526@rmit.edu.au,Kallie Hughes,Kallie Hughes,s3115526,WRK2,"s3115576,s3115921,s3119269,s3119786,s3112088,",Web,Java;Python;C++;,AWST,-,-
-76,-,-,s3111477@rmit.edu.au,Misael Love,Misael Love,s3111477,WRK2,"s3116319,s3115691,s3120392,s3110534,",iOS,Python;Java;C++;,ACWST,-,-
-77,-,-,s3109815@rmit.edu.au,Lauran Odonnell,Lauran Odonnell,s3109815,WRK4,"s3119039,",Web,Python;C++;Java;,AEST,-,-
-78,-,-,s3114777@rmit.edu.au,Carol Becker,Carol Becker,s3114777,WRK2,"s3120342,s3118957,",Web,Java;C++;Python;,ACST,-,-
-79,-,-,s3113812@rmit.edu.au,Carson Morrison,Carson Morrison,s3113812,WRK1,"s3117444,",Desktop,Java;C++;Python;,ACWST,-,-
-80,-,-,s3118663@rmit.edu.au,Shaneka Carpenter,Shaneka Carpenter,s3118663,WRK2,"s3120950,s3119556,",Android,Python;Java;C++;,Not Important to me,-,-
-81,-,-,s3116387@rmit.edu.au,Jarrad Cameron,Jarrad Cameron,s3116387,WRK4,"s3109528,s3113795,",iOS,C++;Python;Java;,AWST,-,-
-82,-,-,s3112636@rmit.edu.au,Steffany Grimes,Steffany Grimes,s3112636,WRK5,"s3110760,s3109318,",Android,Python;C++;Java;,AEST,-,-
-83,-,-,s3118342@rmit.edu.au,Alan Lane,Alan Lane,s3118342,WRK1,"s3116475,s3114608,",Android,Java;Python;C++;,Not Important to me,-,-
-84,-,-,s3118586@rmit.edu.au,Noel Koch,Noel Koch,s3118586,WRK1,"s3113856,s3118752,",Desktop,Python;Java;C++;,ACWST,-,-
-85,-,-,s3120805@rmit.edu.au,Maira Trevino,Maira Trevino,s3120805,WRK5,"s3119342,s3120436,s3114452,s3116258,",Android,C++;Python;Java;,AWST,-,-
-86,-,-,s3116094@rmit.edu.au,Kellyn Keller,Kellyn Keller,s3116094,WRK4,"s3118298,",Web,Python;C++;Java;,AWST,-,-
-87,-,-,s3117848@rmit.edu.au,Dacia Tate,Dacia Tate,s3117848,WRK3,"s3110081,s3112650,s3117149,",iOS,Java;Python;C++;,ACST,-,-
-88,-,-,s3118349@rmit.edu.au,Rueben Gutierrez,Rueben Gutierrez,s3118349,WRK2,"s3117849,s3111175,s3118807,",Web,Java;Python;C++;,AEST,-,-
-89,-,-,s3115438@rmit.edu.au,Shelby Avery,Shelby Avery,s3115438,WRK1,"s3111464,s3117244,",Web,Python;Java;C++;,ACWST,-,-
-90,-,-,s3110753@rmit.edu.au,Ashli Blackburn,Ashli Blackburn,s3110753,WRK6,"s3114898,s3111749,",Android,Python;Java;C++;,AEST,-,-
-91,-,-,s3117647@rmit.edu.au,Carli Matthews,Carli Matthews,s3117647,WRK6,"s3110429,s3119991,",Desktop,Java;Python;C++;,ACWST,-,-
-92,-,-,s3120698@rmit.edu.au,Annabel Bruce,Annabel Bruce,s3120698,WRK4,"s3120677,s3116556,s3117886,",iOS,Java;C++;Python;,AEST,-,-
-93,-,-,s3116348@rmit.edu.au,Camden Avila,Camden Avila,s3116348,WRK3,"s3119256,s3120068,",Web,Java;C++;Python;,ACST,-,-
-94,-,-,s3120464@rmit.edu.au,Randy Jones,Randy Jones,s3120464,WRK6,"s3115945,s3119298,s3120549,s3116625,",Web,Python;C++;Java;,ACWST,-,-
-95,-,-,s3113425@rmit.edu.au,Elliot Pierce,Elliot Pierce,s3113425,WRK3,"s3112330,s3113789,s3109629,s3113985,",Web,Python;C++;Java;,AEST,-,-
-96,-,-,s3120686@rmit.edu.au,Darla Jacobson,Darla Jacobson,s3120686,WRK5,"s3120301,",Web,Java;Python;C++;,AWST,-,-
-97,-,-,s3114050@rmit.edu.au,Maren Rios,Maren Rios,s3114050,WRK5,"s3111053,s3117315,",Web,Python;Java;C++;,AWST,-,-
-98,-,-,s3119405@rmit.edu.au,Sharell Zuniga,Sharell Zuniga,s3119405,WRK2,"s3114454,s3111189,",Android,Python;C++;Java;,ACST,-,-
-99,-,-,s3113297@rmit.edu.au,Benedict Simon,Benedict Simon,s3113297,WRK5,"s3111434,",Desktop,Java;Python;C++;,AWST,-,-
-100,-,-,s3110491@rmit.edu.au,Charity Murray,Charity Murray,s3110491,WRK6,"s3117930,s3117482,",Web,C++;Java;Python;,AWST,-,-
+1,-,-,s3119228@rmit.edu.au,Irene Mack,Irene Mack,s3119228,WRK6,"s3111894,s3110275,",Desktop,Java;C++;Python;,Not Important to me,-,-
+2,-,-,s3118359@rmit.edu.au,Kacey Hendrix,Kacey Hendrix,s3118359,WRK5,"s3116720,s3117984,s3111617,s3119177,s3111933,",Web,Python;Java;C++;,ACWST,-,-
+3,-,-,s3115143@rmit.edu.au,Mohamed Walls,Mohamed Walls,s3115143,WRK2,"s3114254,s3120661,s3112224,s3118208,",iOS,C++;Python;Java;,ACWST,-,-
+4,-,-,s3118898@rmit.edu.au,Mika Jarvis,Mika Jarvis,s3118898,WRK5,"s3116072,s3109949,",Android,Python;C++;Java;,ACST,-,-
+5,-,-,s3110664@rmit.edu.au,Holland Schwartz,Holland Schwartz,s3110664,WRK5,"s3112858,s3112379,",Desktop,C++;Java;Python;,AEST,-,-
+6,-,-,s3114949@rmit.edu.au,Caroline Huffman,Caroline Huffman,s3114949,WRK4,"s3118951,",Android,C++;Python;Java;,ACWST,-,-
+7,-,-,s3117661@rmit.edu.au,Micaela Howell,Micaela Howell,s3117661,WRK3,"s3115960,s3112834,",Android,C++;Java;Python;,AWST,-,-
+8,-,-,s3119321@rmit.edu.au,Stella Fitzpatrick,Stella Fitzpatrick,s3119321,WRK1,"s3118174,",Android,Java;C++;Python;,AWST,-,-
+9,-,-,s3109011@rmit.edu.au,Juston Marquez,Juston Marquez,s3109011,WRK4,"s3109867,s3114086,s3120750,s3113620,s3120621,",Web,C++;Java;Python;,AEST,-,-
+10,-,-,s3113002@rmit.edu.au,Denae Hansen,Denae Hansen,s3113002,WRK4,"s3116456,",iOS,C++;Python;Java;,ACST,-,-
+11,-,-,s3119098@rmit.edu.au,Lianna Nelson,Lianna Nelson,s3119098,WRK3,"s3120327,s3109351,",Android,Python;C++;Java;,AEST,-,-
+12,-,-,s3110107@rmit.edu.au,Howard Gamble,Howard Gamble,s3110107,WRK4,"s3118572,",Web,Java;Python;C++;,ACST,-,-
+13,-,-,s3109885@rmit.edu.au,Magen Meyer,Magen Meyer,s3109885,WRK2,"s3118359,s3118452,",iOS,C++;Java;Python;,ACST,-,-
+14,-,-,s3109665@rmit.edu.au,Danial Floyd,Danial Floyd,s3109665,WRK4,"s3120370,",iOS,C++;Python;Java;,ACST,-,-
+15,-,-,s3114026@rmit.edu.au,Dedrick Lowery,Dedrick Lowery,s3114026,WRK5,"s3112793,s3112087,s3118441,",Desktop,C++;Python;Java;,AWST,-,-
+16,-,-,s3110643@rmit.edu.au,Roscoe Phillips,Roscoe Phillips,s3110643,WRK5,"s3114602,s3116081,s3111940,",Desktop,C++;Java;Python;,Not Important to me,-,-
+17,-,-,s3112341@rmit.edu.au,Carolyn Arroyo,Carolyn Arroyo,s3112341,WRK4,"s3118920,",Web,C++;Java;Python;,ACST,-,-
+18,-,-,s3110051@rmit.edu.au,Caitlyn Garcia,Caitlyn Garcia,s3110051,WRK4,"s3120432,",Android,Python;C++;Java;,ACST,-,-
+19,-,-,s3111954@rmit.edu.au,Shena Garrett,Shena Garrett,s3111954,WRK4,"s3120044,s3119930,s3111559,",Android,C++;Python;Java;,Not Important to me,-,-
+20,-,-,s3118031@rmit.edu.au,Keosha Lambert,Keosha Lambert,s3118031,WRK1,"s3116871,s3116033,s3109311,s3111138,s3112820,",Desktop,C++;Python;Java;,AWST,-,-
+21,-,-,s3110320@rmit.edu.au,Rochel Williams,Rochel Williams,s3110320,WRK6,"s3115242,s3119784,",Android,Python;Java;C++;,AWST,-,-
+22,-,-,s3109421@rmit.edu.au,Talisa Small,Talisa Small,s3109421,WRK5,"s3113934,s3115295,",Android,Python;Java;C++;,AWST,-,-
+23,-,-,s3119054@rmit.edu.au,Trent Sweeney,Trent Sweeney,s3119054,WRK2,"s3110204,s3111021,s3115610,",Desktop,Java;Python;C++;,AEST,-,-
+24,-,-,s3114021@rmit.edu.au,Abbie Gay,Abbie Gay,s3114021,WRK3,"s3120060,",Web,Python;Java;C++;,Not Important to me,-,-
+25,-,-,s3112535@rmit.edu.au,Sherika Stewart,Sherika Stewart,s3112535,WRK4,"s3113596,s3113256,",iOS,Python;C++;Java;,AWST,-,-
+26,-,-,s3120521@rmit.edu.au,Carmella Navarro,Carmella Navarro,s3120521,WRK4,"s3113946,s3114530,s3111365,",Android,Java;C++;Python;,ACST,-,-
+27,-,-,s3116139@rmit.edu.au,Evangeline Mathews,Evangeline Mathews,s3116139,WRK3,"s3113087,s3113675,s3117426,",Web,C++;Python;Java;,Not Important to me,-,-
+28,-,-,s3109973@rmit.edu.au,Lee Kim,Lee Kim,s3109973,WRK4,"s3113570,s3120878,",Android,C++;Java;Python;,AEST,-,-
+29,-,-,s3119424@rmit.edu.au,Tiffanie Hutchinson,Tiffanie Hutchinson,s3119424,WRK6,"s3109397,s3110259,s3111418,",Desktop,Java;C++;Python;,ACST,-,-
+30,-,-,s3117430@rmit.edu.au,Rosalie Walter,Rosalie Walter,s3117430,WRK3,"s3114611,s3110990,s3119138,",Android,C++;Python;Java;,AEST,-,-
+31,-,-,s3116017@rmit.edu.au,Trace Cochran,Trace Cochran,s3116017,WRK5,"s3109050,s3117933,s3116153,s3119633,",Desktop,C++;Python;Java;,ACST,-,-
+32,-,-,s3113971@rmit.edu.au,Buck Terrell,Buck Terrell,s3113971,WRK6,"s3120612,s3114691,s3115616,",Web,Python;Java;C++;,AEST,-,-
+33,-,-,s3120343@rmit.edu.au,Christophe Byrd,Christophe Byrd,s3120343,WRK2,"s3117492,s3120701,",Desktop,Python;C++;Java;,AEST,-,-
+34,-,-,s3113527@rmit.edu.au,Elena Ewing,Elena Ewing,s3113527,WRK3,"s3117588,s3115891,s3120487,",iOS,Java;Python;C++;,AEST,-,-
+35,-,-,s3113267@rmit.edu.au,Susanna Kirby,Susanna Kirby,s3113267,WRK4,"s3119494,s3110212,",Desktop,Python;C++;Java;,Not Important to me,-,-
+36,-,-,s3119990@rmit.edu.au,Tiesha Hunt,Tiesha Hunt,s3119990,WRK6,"s3109236,s3117198,s3109626,",Web,C++;Java;Python;,ACWST,-,-
+37,-,-,s3118380@rmit.edu.au,Simeon Berry,Simeon Berry,s3118380,WRK5,"s3110303,s3112769,s3111474,",iOS,Python;Java;C++;,AEST,-,-
+38,-,-,s3109145@rmit.edu.au,Meridith Simpson,Meridith Simpson,s3109145,WRK3,"s3109557,s3115358,s3120201,",Web,Python;Java;C++;,AWST,-,-
+39,-,-,s3112770@rmit.edu.au,Kristopher Cummings,Kristopher Cummings,s3112770,WRK2,"s3116244,s3114340,s3114834,s3119934,",Desktop,C++;Python;Java;,Not Important to me,-,-
+40,-,-,s3116487@rmit.edu.au,Sade Benitez,Sade Benitez,s3116487,WRK5,"s3120803,s3120462,",iOS,C++;Java;Python;,AWST,-,-
+41,-,-,s3111511@rmit.edu.au,Ada Riggs,Ada Riggs,s3111511,WRK3,"s3119381,s3111818,s3112775,",Desktop,C++;Python;Java;,AEST,-,-
+42,-,-,s3113892@rmit.edu.au,Benita Page,Benita Page,s3113892,WRK5,"s3111173,s3118250,",iOS,Java;C++;Python;,ACST,-,-
+43,-,-,s3115919@rmit.edu.au,Karis Melton,Karis Melton,s3115919,WRK1,"s3114431,s3112190,s3119021,",Desktop,Java;Python;C++;,AEST,-,-
+44,-,-,s3117698@rmit.edu.au,Laronda Baird,Laronda Baird,s3117698,WRK1,"s3119302,s3119757,",Desktop,C++;Python;Java;,ACWST,-,-
+45,-,-,s3112450@rmit.edu.au,Kirsten Patel,Kirsten Patel,s3112450,WRK5,"s3120801,",iOS,Java;Python;C++;,ACWST,-,-
+46,-,-,s3112337@rmit.edu.au,Adan Yu,Adan Yu,s3112337,WRK6,"s3115413,s3113206,s3115649,s3114114,",Web,Java;Python;C++;,AWST,-,-
+47,-,-,s3119329@rmit.edu.au,Ayesha Sexton,Ayesha Sexton,s3119329,WRK4,"s3118774,",Web,Java;C++;Python;,ACST,-,-
+48,-,-,s3111178@rmit.edu.au,Lacee Gallagher,Lacee Gallagher,s3111178,WRK1,"s3118103,s3109841,",Android,Java;Python;C++;,ACST,-,-
+49,-,-,s3119843@rmit.edu.au,Shiloh Nguyen,Shiloh Nguyen,s3119843,WRK6,"s3111025,s3113711,",iOS,Java;C++;Python;,AEST,-,-
+50,-,-,s3119019@rmit.edu.au,Johnny Prince,Johnny Prince,s3119019,WRK1,"s3119627,s3120665,s3114796,",Desktop,Python;C++;Java;,AEST,-,-
+51,-,-,s3119271@rmit.edu.au,Celia Cline,Celia Cline,s3119271,WRK1,"s3120212,s3120408,s3113394,",Android,Java;C++;Python;,ACST,-,-
+52,-,-,s3118889@rmit.edu.au,Cassondra Rice,Cassondra Rice,s3118889,WRK5,"s3109010,s3110942,",Desktop,Java;C++;Python;,ACWST,-,-
+53,-,-,s3109895@rmit.edu.au,Asher Glass,Asher Glass,s3109895,WRK5,"s3118058,s3115720,",iOS,Python;Java;C++;,ACST,-,-
+54,-,-,s3115641@rmit.edu.au,Tate Joseph,Tate Joseph,s3115641,WRK5,"s3114758,s3114084,",Desktop,C++;Java;Python;,ACWST,-,-
+55,-,-,s3110206@rmit.edu.au,Rylan Richards,Rylan Richards,s3110206,WRK2,"s3118259,s3110889,s3120858,",iOS,C++;Java;Python;,ACWST,-,-
+56,-,-,s3110267@rmit.edu.au,Alfredo Valentine,Alfredo Valentine,s3110267,WRK4,"s3120403,",Desktop,Java;C++;Python;,Not Important to me,-,-
+57,-,-,s3113081@rmit.edu.au,Efrain Estes,Efrain Estes,s3113081,WRK1,"s3111827,s3114121,s3110637,",Desktop,Java;C++;Python;,ACWST,-,-
+58,-,-,s3120698@rmit.edu.au,Lidia Watkins,Lidia Watkins,s3120698,WRK4,"s3115578,s3110895,s3114415,",iOS,Python;C++;Java;,Not Important to me,-,-
+59,-,-,s3109334@rmit.edu.au,Estella Landry,Estella Landry,s3109334,WRK1,"s3116506,s3119010,",Android,Python;C++;Java;,AWST,-,-
+60,-,-,s3115395@rmit.edu.au,Carisa Bradley,Carisa Bradley,s3115395,WRK5,"s3114921,s3115356,s3115573,s3117689,s3110612,",Desktop,C++;Python;Java;,AWST,-,-
+61,-,-,s3113282@rmit.edu.au,Shaun Todd,Shaun Todd,s3113282,WRK2,"s3120792,s3110312,s3116105,s3115559,",Desktop,Java;C++;Python;,AWST,-,-
+62,-,-,s3115858@rmit.edu.au,Harrison Ali,Harrison Ali,s3115858,WRK4,"s3110565,s3120842,",Android,C++;Java;Python;,AWST,-,-
+63,-,-,s3110679@rmit.edu.au,Krystin Blackwell,Krystin Blackwell,s3110679,WRK2,"s3110439,s3111838,",iOS,Python;Java;C++;,ACST,-,-
+64,-,-,s3116004@rmit.edu.au,Elysia French,Elysia French,s3116004,WRK3,"s3110862,s3119516,",Android,C++;Python;Java;,ACWST,-,-
+65,-,-,s3112236@rmit.edu.au,Jenica Mays,Jenica Mays,s3112236,WRK2,"s3115546,s3118455,s3112390,",iOS,C++;Java;Python;,ACWST,-,-
+66,-,-,s3109475@rmit.edu.au,Ean Arnold,Ean Arnold,s3109475,WRK3,"s3116291,s3109230,",Android,C++;Java;Python;,AEST,-,-
+67,-,-,s3114127@rmit.edu.au,Lorenzo Randolph,Lorenzo Randolph,s3114127,WRK5,"s3116287,s3114516,s3116581,s3109277,",Android,Python;C++;Java;,AEST,-,-
+68,-,-,s3113702@rmit.edu.au,Peggy Parsons,Peggy Parsons,s3113702,WRK1,"s3112831,",iOS,Python;Java;C++;,Not Important to me,-,-
+69,-,-,s3113694@rmit.edu.au,Nataly Barron,Nataly Barron,s3113694,WRK3,"s3115426,s3117159,s3117851,s3119789,s3111085,",Web,Python;C++;Java;,AWST,-,-
+70,-,-,s3117224@rmit.edu.au,Nehemiah Lutz,Nehemiah Lutz,s3117224,WRK1,"s3119489,s3117204,",Web,Java;C++;Python;,AWST,-,-
+71,-,-,s3116425@rmit.edu.au,Lyndi Maxwell,Lyndi Maxwell,s3116425,WRK1,"s3118188,s3119758,",Android,C++;Java;Python;,ACST,-,-
+72,-,-,s3114463@rmit.edu.au,Jillian Rubio,Jillian Rubio,s3114463,WRK5,"s3120475,",Android,C++;Python;Java;,AEST,-,-
+73,-,-,s3109984@rmit.edu.au,Ben Cook,Ben Cook,s3109984,WRK4,"s3110465,s3109109,s3116628,s3118473,s3117323,",Desktop,C++;Java;Python;,ACST,-,-
+74,-,-,s3111061@rmit.edu.au,Mai Roth,Mai Roth,s3111061,WRK2,"s3113302,s3120396,s3118185,",Android,Java;Python;C++;,ACST,-,-
+75,-,-,s3119492@rmit.edu.au,Kallie Hughes,Kallie Hughes,s3119492,WRK2,"s3114441,",Android,Java;Python;C++;,Not Important to me,-,-
+76,-,-,s3110120@rmit.edu.au,Misael Love,Misael Love,s3110120,WRK2,"s3111501,",Android,C++;Java;Python;,Not Important to me,-,-
+77,-,-,s3111342@rmit.edu.au,Lauran Odonnell,Lauran Odonnell,s3111342,WRK5,"s3109969,s3112690,s3109045,s3116257,",iOS,C++;Python;Java;,ACST,-,-
+78,-,-,s3112623@rmit.edu.au,Carol Becker,Carol Becker,s3112623,WRK4,"s3115262,s3110803,s3117035,s3116743,",Web,Java;Python;C++;,AWST,-,-
+79,-,-,s3117851@rmit.edu.au,Carson Morrison,Carson Morrison,s3117851,WRK2,"s3111755,s3114300,s3120043,s3110096,",Android,C++;Python;Java;,ACST,-,-
+80,-,-,s3115610@rmit.edu.au,Shaneka Carpenter,Shaneka Carpenter,s3115610,WRK4,"s3110421,s3113017,",Desktop,Python;C++;Java;,ACWST,-,-
+81,-,-,s3116978@rmit.edu.au,Jarrad Cameron,Jarrad Cameron,s3116978,WRK6,"s3113826,s3112164,s3119522,",Android,Java;Python;C++;,ACWST,-,-
+82,-,-,s3119953@rmit.edu.au,Steffany Grimes,Steffany Grimes,s3119953,WRK3,"s3113444,",Desktop,C++;Java;Python;,Not Important to me,-,-
+83,-,-,s3111024@rmit.edu.au,Alan Lane,Alan Lane,s3111024,WRK4,"s3113571,",Web,C++;Python;Java;,ACST,-,-
+84,-,-,s3113348@rmit.edu.au,Noel Koch,Noel Koch,s3113348,WRK1,"s3109331,s3113035,s3120813,s3113034,s3118959,",Android,C++;Java;Python;,ACWST,-,-
+85,-,-,s3120523@rmit.edu.au,Maira Trevino,Maira Trevino,s3120523,WRK1,"s3114570,s3110123,s3109677,",Android,Python;Java;C++;,AWST,-,-
+86,-,-,s3112667@rmit.edu.au,Kellyn Keller,Kellyn Keller,s3112667,WRK2,"s3110076,s3116266,s3113842,s3119274,",iOS,Java;C++;Python;,Not Important to me,-,-
+87,-,-,s3113390@rmit.edu.au,Dacia Tate,Dacia Tate,s3113390,WRK3,"s3119061,",Web,Java;Python;C++;,Not Important to me,-,-
+88,-,-,s3113688@rmit.edu.au,Rueben Gutierrez,Rueben Gutierrez,s3113688,WRK4,"s3117091,",Desktop,Java;C++;Python;,ACWST,-,-
+89,-,-,s3113289@rmit.edu.au,Shelby Avery,Shelby Avery,s3113289,WRK5,"s3116118,s3114176,s3117043,",Android,C++;Java;Python;,ACWST,-,-
+90,-,-,s3110285@rmit.edu.au,Ashli Blackburn,Ashli Blackburn,s3110285,WRK4,"s3111239,s3118273,",Desktop,Java;Python;C++;,Not Important to me,-,-
+91,-,-,s3109589@rmit.edu.au,Carli Matthews,Carli Matthews,s3109589,WRK1,"s3117713,s3118000,",Web,Java;Python;C++;,ACWST,-,-
+92,-,-,s3119475@rmit.edu.au,Annabel Bruce,Annabel Bruce,s3119475,WRK4,"s3115964,",Web,Python;C++;Java;,Not Important to me,-,-
+93,-,-,s3117387@rmit.edu.au,Camden Avila,Camden Avila,s3117387,WRK4,"s3117857,",iOS,C++;Python;Java;,ACWST,-,-
+94,-,-,s3116037@rmit.edu.au,Randy Jones,Randy Jones,s3116037,WRK2,"s3120718,",iOS,Java;Python;C++;,ACST,-,-
+95,-,-,s3116027@rmit.edu.au,Elliot Pierce,Elliot Pierce,s3116027,WRK4,"s3116473,s3113072,",Android,Java;Python;C++;,Not Important to me,-,-
+96,-,-,s3117850@rmit.edu.au,Darla Jacobson,Darla Jacobson,s3117850,WRK4,"s3111812,s3111109,s3113371,",Android,C++;Java;Python;,ACST,-,-
+97,-,-,s3116459@rmit.edu.au,Maren Rios,Maren Rios,s3116459,WRK4,"s3109904,s3117042,s3112880,",Android,C++;Python;Java;,Not Important to me,-,-
+98,-,-,s3111520@rmit.edu.au,Sharell Zuniga,Sharell Zuniga,s3111520,WRK3,"s3116783,s3115679,",Desktop,Python;Java;C++;,AWST,-,-
+99,-,-,s3119987@rmit.edu.au,Benedict Simon,Benedict Simon,s3119987,WRK4,"s3113763,s3111877,s3120235,s3116466,",Android,C++;Java;Python;,ACST,-,-
+100,-,-,s3113886@rmit.edu.au,Charity Murray,Charity Murray,s3113886,WRK2,"s3117865,s3111458,s3118420,s3119865,s3119678,",Desktop,Python;Java;C++;,ACWST,-,-
