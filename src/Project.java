@@ -38,7 +38,12 @@ public class Project {
                 case 2 -> setMaxStudents();
                 case 3 -> addStudentsToGroup();
                 case 4 -> listGroups();
-                case 5 -> saveToCSV(allGroupList.get(0)); // For purpose of testing, this passes the first and only group
+                case 5 -> {
+                        try { saveToCSV(allGroupList.get(0));
+                        } catch (IndexOutOfBoundsException e) {
+                            System.out.println();
+                            System.out.println("Error: You have not created any groups yet. ");
+                }} // For purpose of testing, this passes the first and only group
                 case 6 -> flag = false;
                 default -> System.out.println("Invalid option.");
             }
